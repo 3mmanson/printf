@@ -1,6 +1,6 @@
-#0x11. C - printf
+# 0x11. C - printf
 
-##Write your own printf function.
+## Write your own printf function.
 
 #### For this project, we expect you to look at these concepts:
 [Group Projects](https://alx-intranet.hbtn.io/concepts/111)
@@ -24,5 +24,5 @@
 
 
 
-Authors: [Abasienyene Sunday](https://github.com/Abasienyene) 
+Authors: [Abasienyene Sunday](https://github.com/Abasienyene) &  
          [David Emmanson](https://github.com/3mmanson)
